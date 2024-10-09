@@ -1,0 +1,26 @@
+# testData/login.yaml
+
+loginTests:
+  validUser:
+    email: "hemanthpa123@yopmail.com"
+    password: "Test@123"
+
+Gate:
+  GateInput:
+    gateName: "Gate"
+    
+Equipment:
+  EquipmentInput:
+    equipmentName: "Equipment"
+
+  invalidUser:
+    email: "{{ faker.internet.email }}"
+    password: "WrongPass"
+  unregisteredUser:
+    email: "{{ faker.internet.email }}"
+    password: "{{ faker.internet.password }}"
+  lockedUser:
+    email: "jtyamo4testing+rtm84622@gmail.com"
+    password: "OdinOdin5$"
+
+
