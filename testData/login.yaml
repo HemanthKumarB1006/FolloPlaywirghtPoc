@@ -23,4 +23,35 @@ Equipment:
     email: "jtyamo4testing+rtm84622@gmail.com"
     password: "OdinOdin5$"
 
+Company:
+  CompanyInput:
+    companyName: "Company"
+    addressLine1: "Chennai"
 
+DFOW:
+  DFOWInput:
+    specificationSection: "Section"
+    dFOWName: "DFOW"
+
+Delivery:
+  DeliveryInput:
+    deliveryDescription: "Delivery Automation Booking "
+    fromTimeHH: "07"
+    fromTimeMM: "30"
+    toTimeHH: "05"
+    toTimeMM: "30"
+
+Crane:
+  CraneInput:
+    craneDescription: "Crane Automation Booking "
+    fromTimeHH: "07"
+    fromTimeMM: "30"
+    toTimeHH: "05"
+    toTimeMM: "30"
+    pickingFrom: "Test1"
+    pickingTO: "Test2"
+
+    
+
+    
+    

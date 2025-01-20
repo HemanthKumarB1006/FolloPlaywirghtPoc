@@ -1,0 +1,39 @@
+2024-12-12 13:44:15 - [32minfo[39m: Creating configuration file...
+2024-12-12 13:44:15 - [32minfo[39m: Adding new script(s) in package.json...
+2024-12-12 13:44:15 - [32minfo[39m: Setup completed
+2024-12-12 13:51:48 - [32minfo[39m: Reading configs from C:\Users\hemanthkumar.b\Desktop\Follo POC\browserstack.yml
+2024-12-12 13:51:49 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-12 13:52:05 - [32minfo[39m: Local binary started successfully
+2024-12-12 13:52:18 - [32minfo[39m: Deleting C:\Users\hemanthkumar.b\Desktop\Follo POC\playwright-browserstack-sdk.config.js
+2024-12-12 13:52:24 - [32minfo[39m: Local binary stopped
+2024-12-12 13:53:55 - [32minfo[39m: Reading configs from C:\Users\hemanthkumar.b\Desktop\Follo POC\browserstack.yml
+2024-12-12 13:53:55 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-12 13:54:03 - [32minfo[39m: Local binary started successfully
+2024-12-12 13:54:15 - [32minfo[39m: Deleting C:\Users\hemanthkumar.b\Desktop\Follo POC\playwright-browserstack-sdk.config.js
+2024-12-12 13:54:21 - [32minfo[39m: Local binary stopped
+2024-12-12 13:58:00 - [32minfo[39m: Reading configs from C:\Users\hemanthkumar.b\Desktop\Follo POC\browserstack.yml
+2024-12-12 13:58:01 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-12 13:58:11 - [32minfo[39m: Local binary started successfully
+2024-12-12 13:58:23 - [32minfo[39m: Deleting C:\Users\hemanthkumar.b\Desktop\Follo POC\playwright-browserstack-sdk.config.js
+2024-12-12 13:58:28 - [32minfo[39m: Local binary stopped
+2024-12-12 14:01:15 - [32minfo[39m: Reading configs from C:\Users\hemanthkumar.b\Desktop\FolloPOC\browserstack.yml
+2024-12-12 14:01:15 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-12 14:01:22 - [32minfo[39m: Local binary started successfully
+2024-12-12 14:01:44 - [32minfo[39m: Visit https://observability.browserstack.com/builds/omolyrrorefkfu2ybn1sj8ppmcao3slgpx2klq0u to view build report, insights, and many more debugging information all at one place!
+
+2024-12-12 14:01:47 - [32minfo[39m: Deleting C:\Users\hemanthkumar.b\Desktop\FolloPOC\playwright-browserstack-sdk.config.js
+2024-12-12 14:01:53 - [32minfo[39m: Local binary stopped
+2024-12-12 14:04:57 - [32minfo[39m: Reading configs from C:\Users\hemanthkumar.b\Desktop\FolloPOC\browserstack.yml
+2024-12-12 14:04:58 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-12 14:05:04 - [32minfo[39m: Local binary started successfully
+2024-12-12 14:05:32 - [32minfo[39m: Visit https://observability.browserstack.com/builds/7j1htis1whuix8r4qsxdyhmyboan8owgiu6ozboi to view build report, insights, and many more debugging information all at one place!
+
+2024-12-12 14:05:35 - [32minfo[39m: Deleting C:\Users\hemanthkumar.b\Desktop\FolloPOC\playwright-browserstack-sdk.config.js
+2024-12-12 14:05:40 - [32minfo[39m: Local binary stopped
+2024-12-12 14:07:21 - [32minfo[39m: Reading configs from C:\Users\hemanthkumar.b\Desktop\FolloPOC\browserstack.yml
+2024-12-12 14:07:21 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-12 14:07:28 - [32minfo[39m: Local binary started successfully
+2024-12-12 14:07:42 - [32minfo[39m: Visit https://observability.browserstack.com/builds/h8c9akkah8jbnj9tlv9orkaxt6r8aqiyyvag6fno to view build report, insights, and many more debugging information all at one place!
+
+2024-12-12 14:07:45 - [32minfo[39m: Deleting C:\Users\hemanthkumar.b\Desktop\FolloPOC\playwright-browserstack-sdk.config.js
+2024-12-12 14:07:50 - [32minfo[39m: Local binary stopped
