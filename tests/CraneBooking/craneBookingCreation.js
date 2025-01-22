@@ -64,9 +64,6 @@ test.describe('Login Page Test Scenarios', () => {
         const futureDate = generateFutureDate();
         console.log(futureDate);
         await page.fill(locators.clickCraneDate,futureDate);
-        await page.click(locators.selectGate);
-        await page.keyboard.press('ArrowDown'); 
-        await page.keyboard.press('Enter');
         await page.click(locators.selectEquipment)
         await page.keyboard.press('ArrowDown'); 
         await page.keyboard.press('Enter');
@@ -78,7 +75,6 @@ test.describe('Login Page Test Scenarios', () => {
         await page.press(locators.enterToTimeHH, 'Control+A');
         await page.press(locators.enterToTimeHH, 'Backspace');
         await page.fill(locators.enterToTimeHH,testData.Crane.CraneInput.toTimeHH);
-
         await page.click(locators.submitButton);
         const inputElement = page.locator(locators.searchGate);
         await inputElement.click();

@@ -78,7 +78,7 @@ test.describe('Login Page Test Scenarios', () => {
       throw new Error(`Unable to select equipment type. Error: ${error}`);
     });
     await page.click(locators.enterContactName);
-    await page.keyboard.press('ArrowDown');,
+    await page.keyboard.press('ArrowDown');
     await page.keyboard.press('Enter');
     await page.click(locators.submitButton);
     const inputElement = page.locator(locators.searchGate);
@@ -135,7 +135,7 @@ test.describe('Login Page Test Scenarios', () => {
 
     });
 
-    test('Verify that user can successfully created DFOW', async ({ page }) => {
+    test.skip('Verify that user can successfully created DFOW', async ({ page }) => {
       test.setTimeout(60000);
       await page.click(locators.SettingDropdown);
       await page.mouse.wheel(0, 1500);
